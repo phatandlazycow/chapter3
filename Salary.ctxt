@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Salary
+comment1.params=
+comment1.target=void\ scan()
+comment2.params=
+comment2.target=void\ figureRaise()
+comment3.params=
+comment3.target=void\ print()
+numComments=4
